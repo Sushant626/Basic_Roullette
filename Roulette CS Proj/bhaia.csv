@@ -1,0 +1,12 @@
+Bet number,Bet choice,Bet on,Ball on,money at stake
+0,Red Black,black,19,50
+1,Red Black,black,33,25
+2,High Low,Low,23,30
+3,High Low,Low,34,45
+4,High Low,Low,6,1000
+5,Red Black,red,6,350
+6,Red Black,red,9,650
+8,Odd Eve,eve,25,1000
+9,Odd Eve,eve,22,300
+10,Odd Eve,odd,34,600
+11,Odd Eve,odd,30,99999999
